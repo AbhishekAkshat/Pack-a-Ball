@@ -4,11 +4,12 @@ __________________________________________________________________________
 To run the project perform the following commands step by step:
 
 1. Software Requirements:
+   
             - Ubuntu v16.04
             - Gazebo v7.16.0
             - ROS Kinetic Kame
 
-2. Run:
+3. Run:
             - $ cd packaball/catkin_ws
             - $ catkin_make
 
